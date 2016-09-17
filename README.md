@@ -1,2 +1,3 @@
 # TicTacToe-AI
-A TicTacToe AI that stores uses files to iteratively work towards the optimal solution
+# Lang: C++
+A TicTacToe AI that stores stores previous game results in files to iteratively work towards the optimal solution to win or tie
